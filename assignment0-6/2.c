@@ -1,0 +1,9 @@
+/*
+    c is a compiled language
+    because unlike an interpreted language like python which 
+    throws an error when it have reached the line of the error
+    the c language does not let you get an executable of 
+    your file until you fix all the errors in your file.
+    if you have an error in your c file it will throw the error
+    and do not let you get an executable
+*/
