@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 
 int main() {
     char *will_never_hear_again = "hey when is the next outing";
